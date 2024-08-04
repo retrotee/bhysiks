@@ -1,4 +1,4 @@
-# Physics Game
+#  Bhysiks
 
 Welcome to the world of physics! This game was created in just an hour using Scratch/Turbowarp. Spawn colorful boxes and balls while staying in control.
 
