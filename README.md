@@ -1,4 +1,4 @@
-#  Bhysiks
+# Bhysiks
 
 Welcome to the world of physics! This game was created in just an hour using Scratch/Turbowarp. Spawn colorful boxes and balls while staying in control.
 
@@ -17,4 +17,6 @@ This game is still in development!
 - **Space**: Spawn boxes with physics (affect other objects)
 - **R**: Reset
 
-In the middle of the screen, you will see a number indicating how many boxes and balls you have spawned.
+## Play Now
+
+You can play the game on this site: [Bhysiks](https://bhysiks.netlify.app/) and visit the itch site for more details: [Itch.io](https://retrotee.itch.io/bhysiks).
